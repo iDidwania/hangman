@@ -22,3 +22,7 @@ Welcome to the Hangman game! This project is a classic implementation of the Han
 8. Try to guess the word before you run out of attempts!
 
 
+## Acknowledgments
+
+- Inspired by the classic Hangman game.
+- This program was written entirely by me.
