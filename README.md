@@ -28,7 +28,7 @@ To play the Hangman game, follow these steps:
 1. Ensure you have Java installed on your machine. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 2. Clone this repository:
     ```sh
-    git clone https://github.com/yourusername/hangman-game.git
+    git clone https://github.com/ishana-d/hangman.git
     ```
 3. Navigate to the project directory:
     ```sh
